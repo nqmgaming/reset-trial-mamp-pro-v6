@@ -1,5 +1,4 @@
 
-```markdown
 # How to Run a Script on Mac
 
 ## Steps
